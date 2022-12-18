@@ -1,3 +1,9 @@
 h1 {
   font-size: 20px;
 }
+
+.windows {
+  padding: 0.5rem;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 10px;
+}
